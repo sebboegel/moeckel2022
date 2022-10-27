@@ -1,0 +1,13 @@
+{
+	"n_targets": 118489,
+	"n_bootstraps": 50,
+	"n_processed": 15606009,
+	"n_pseudoaligned": 14612946,
+	"n_unique": 5139393,
+	"p_pseudoaligned": 93.6,
+	"p_unique": 32.9,
+	"kallisto_version": "0.46.1",
+	"index_version": 10,
+	"start_time": "Sat Mar  5 21:07:46 2022",
+	"call": "/Users/sebastian/tools/kallisto/kallisto quant -b 50 -i /Users/sebastian/tools/kallisto/mus_musculus/transcriptome.idx -o L347 /Users/sebastian/rheuma_seq/rna-seq/mouse/L347_S9_R1_001.fastq /Users/sebastian/rheuma_seq/rna-seq/mouse/L347_S9_R2_001.fastq"
+}
